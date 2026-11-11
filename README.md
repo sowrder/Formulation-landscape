@@ -20,6 +20,6 @@ The designs, definitions and decisions are mine. Code is written with AI assista
 
 `Nashwan_Methods_Appendix.pdf` is the short overview of all five.
 
-## Related code
+## Related code (publically available) 
 
 - OrganizePile, a command-line toolkit for finding and transferring research files: https://github.com/sowrder/OrganizePile
